@@ -28,8 +28,8 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="pyhton" width="40" height="40"/> </a>  
-  
+<p align="left"> <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="pyhton" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/c/76/c.svg" alt="c++" width="40" height="40"/> </a>  
+
    
    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="html" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/javascript/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="40" height="40"/> </a>  
   
